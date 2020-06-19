@@ -717,6 +717,10 @@ h3, h4 {
     color: #333333!important;
 }
 
+ul {
+	color: #533D3C;
+}
+
 .med-width-whitespace {
     max-width: 800px;
     margin: auto auto auto auto;
