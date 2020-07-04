@@ -342,9 +342,9 @@ a:hover {
     border: 0px;
 }
 
-.navbar-toggle:hover {
+/*.navbar-toggle:hover {
     background: transparent!important;
-}
+}*/
 
 .navbar-toggle .icon-bar {
     background-color: rgba(0, 0, 0, .5);
@@ -516,7 +516,7 @@ button {
     position: fixed;
     bottom: 20px;
     right: 20px;
-    opacity: 0;
+    opacity: 1;
     z-index: 500;
     transition: all .3s ease-in-out;
 }
